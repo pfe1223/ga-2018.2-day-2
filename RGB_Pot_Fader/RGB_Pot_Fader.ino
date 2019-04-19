@@ -1,9 +1,7 @@
 
-
-int LEDGreen=9;
-int LEDBlue=10;
 int LEDRed=11;
-
+int LEDGreen=10;
+int LEDBlue=9;
 
 int sensorPin=A0;
 int val;
